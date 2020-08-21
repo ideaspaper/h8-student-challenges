@@ -13,7 +13,7 @@ Buatlah sebuah program yang akan menampilkan keputusan potongan harga untuk sebu
 
 Tampilkan harga akhir, yaitu hasil pengurangan `basicPrice` dengan potongan harga pada terminal.
 
-## Notes:
+## Notes
 
 - Apabila nilai `daysBeforeExp` memiliki tipe selain `number`, tampilkan `'invalid daysBeforeExp'`.
 - Apabila nilai `basicPrice` memiliki tipe selain `number`, tampilkan `'invalid basicPrice'`.
@@ -23,7 +23,7 @@ Tampilkan harga akhir, yaitu hasil pengurangan `basicPrice` dengan potongan harg
 - **Jangan mengubah nama variable yang telah disediakan**.
 - **Dilarang menggunakan built-in function apapun**.
 
-## Implement
+## Implementation
 
 ```javascript
 var daysBeforeExp = 30;
