@@ -12,8 +12,6 @@ Buatlah sebuah program yang akan menampilkan keputusan `'eat'` atau `'not eat'` 
 | `'high'`               | `'eat'`     | `'not eat'` |
 | `'low'`                | `'not eat'` | `'not eat'` |
 
-Buat sebuah function yang akan memberikan return value berupa array yang berisi angka, mulai dari 0 sampai suatu angka tertentu. Panjang dari array ditentukan dari argumen yang diberikan saat pemanggilan function. Function ini akan menerima satu parameter:
-
 ## Notes:
 
 - Apabila nilai `clock` memiliki tipe selain `string`, tampilkan `'invalid input'`.
