@@ -19,7 +19,8 @@ Buatlah sebuah program yang akan menampilkan keputusan `'eat'` atau `'not eat'` 
 - Apabila nilai `activity` memiliki tipe selain `string`, tampilkan `'invalid input'`.
 - Apabila nilai `activity` selain `'high'` atau `'low'`, tampilkan `'invalid activity'`.
 - Testing dapat dilakukan dengan mengetikkan perintah `npm install` kemudian `npm test`.
-- **Jangan mengubah nama variable yang telah disediakan.**
+- **Jangan mengubah nama variable yang telah disediakan**.
+- **Dilarang menggunakan built-in function apapun**.
 
 ## Implementation
 
