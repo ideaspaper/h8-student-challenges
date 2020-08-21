@@ -12,7 +12,7 @@ Buatlah sebuah program yang akan menampilkan keputusan `'eat'` atau `'not eat'` 
 | `'high'`               | `'eat'`     | `'not eat'` |
 | `'low'`                | `'not eat'` | `'not eat'` |
 
-## Notes:
+## Notes
 
 - Apabila nilai `clock` memiliki tipe selain `string`, tampilkan `'invalid input'`.
 - Apabila nilai `hungry` memiliki tipe selain `boolean`, tampilkan `'invalid input'`.
@@ -21,7 +21,7 @@ Buatlah sebuah program yang akan menampilkan keputusan `'eat'` atau `'not eat'` 
 - Testing dapat dilakukan dengan mengetikkan perintah `npm install` kemudian `npm test`.
 - **Jangan mengubah nama variable yang telah disediakan.**
 
-## Implement
+## Implementation
 
 ```javascript
 var clock = '800';
