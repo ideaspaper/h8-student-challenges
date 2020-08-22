@@ -1,3 +1,5 @@
+[**Back to Home**](./../README.md)
+
 # Accept the EULA
 
 ## Directions
@@ -58,3 +60,5 @@ var spyware = true;
 
 // Your code here
 ```
+
+[**Back to Home**](./../README.md)

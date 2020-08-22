@@ -1,3 +1,5 @@
+[**Back to Home**](./../README.md)
+
 # Shop Work Hour
 
 ## Directions
@@ -28,3 +30,5 @@ var holiday = false;
 
 // Your code here
 ```
+
+[**Back to Home**](./../README.md)

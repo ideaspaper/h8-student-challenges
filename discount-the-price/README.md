@@ -1,3 +1,5 @@
+[**Back to Home**](./../README.md)
+
 # Discount the Price
 
 ## Directions
@@ -17,8 +19,8 @@ Tampilkan harga akhir, yaitu hasil pengurangan `basicPrice` dengan potongan harg
 
 - Apabila nilai `daysBeforeExp` memiliki tipe selain `number`, tampilkan `'invalid daysBeforeExp'`.
 - Apabila nilai `basicPrice` memiliki tipe selain `number`, tampilkan `'invalid basicPrice'`.
-- Apabila nilai `daysBeforeExp` dan `basicPrice` memiliki tipe selain `number`, tampilkan `'invalid daysBeforeExp dan basicPrice'`.
-- Apabila nilai `daysBeforeExp` dan `basicPrice` memiliki tipe `number`, asumsikan nilainya selalu lebih dari `0`.
+- Apabila nilai `daysBeforeExp` atau `basicPrice` memiliki tipe selain `number`, tampilkan `'invalid daysBeforeExp dan basicPrice'`.
+- Apabila nilai `daysBeforeExp` atau `basicPrice` memiliki tipe `number`, asumsikan nilainya selalu lebih dari `0`.
 - Testing dapat dilakukan dengan mengetikkan perintah `npm install` kemudian `npm test`.
 - **Jangan mengubah nama variable yang telah disediakan**.
 - **Dilarang menggunakan built-in function apapun**.
@@ -31,3 +33,5 @@ var basicPrice = 500000;
 
 // Your code here
 ```
+
+[**Back to Home**](./../README.md)

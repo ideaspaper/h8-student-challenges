@@ -1,3 +1,5 @@
+[**Back to Home**](./../README.md)
+
 # Eat not Eat
 
 ## Directions
@@ -31,3 +33,5 @@ var activity = 'low';
 
 // Your code here
 ```
+
+[**Back to Home**](./../README.md)
