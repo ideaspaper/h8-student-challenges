@@ -1,0 +1,16 @@
+{
+  "name": "accept-the-eula",
+  "version": "1.0.0",
+  "description": "## Directions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fnless": "0.1.7",
+    "jest": "26.4.1"
+  }
+}
