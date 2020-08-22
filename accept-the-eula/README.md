@@ -10,6 +10,7 @@ Berdasarkan skema tersebut buatlah sebuah program yang akan menampilkan:
 - `'Installing software + spyware remover'` apabila `agree` dan `spywareRemover` bernilai `true`.
 - `'Installing software'` apabila `agree` bernilai `true`.
 - `'Cannot proceed when not agree'` apabila `agree` bernilai `false`.
+- `'Unknown error'` apabila terdapat variable yang kosong.
 
 ### Contoh 1:
 
@@ -44,7 +45,6 @@ Output: `'Unknown error'`
 ## Notes
 
 - Asumsikan tipe data pada test case selalu sesuai seperti contoh-contoh yang telah diberikan.
-- Apabila terdapat variable yang kosong, tampilkan `'Unknown error'`.
 - Testing dapat dilakukan dengan mengetikkan perintah `npm install` kemudian `npm test`.
 - **Jangan mengubah nama variable yang telah disediakan**.
 - **Dilarang menggunakan built-in function apapun**.
