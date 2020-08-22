@@ -35,6 +35,12 @@ Input: `scrollPos` = `'bottom'`, `agree` = `false`, `spyware` = `true`
 
 Output: `'Cannot proceed when not agree'`
 
+### Contoh 5:
+
+Input: `scrollPos` = `''`, `agree` = `false`, `spyware` = `true`
+
+Output: `'Unknown error'`
+
 ## Notes
 
 - Asumsikan tipe data pada test case selalu sesuai seperti contoh-contoh yang telah diberikan.
