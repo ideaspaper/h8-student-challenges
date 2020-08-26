@@ -7,8 +7,8 @@ afterAll(() => {
   mfnless.deleteInstrumentFile();
 });
 
-it('Key variables exist', () => {
-  expect(mfnless.isKeyVarsExist()).toBe(true);
+it('Key variables valid', () => {
+  expect(mfnless.isKeyVarsValid()).toBe(true);
 });
 
 describe(`Testing 'invalid input'`, () => {

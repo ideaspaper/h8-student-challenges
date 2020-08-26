@@ -16,13 +16,15 @@ This repo contains additional challenges for Hacktiv8's students. Students can c
 - [First Middle Last](./first-middle-last)
 - [Humanize Date Format](./humanize-date-format)
 
-### Arrays
-
 ### Loopings
 
 ### Nested Loopings
 
 ### Functions
+
+### Arrays
+
+### Multidimensional Array
 
 ### Modular Functions
 
