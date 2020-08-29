@@ -9,7 +9,7 @@ This repo contains additional challenges for Hacktiv8's students. Students can c
 - [Accept the EULA](./accept-the-eula)
 - [Discount the Price](./discount-the-price)
 - [Eat not Eat](./eat-not-eat)
-- [Shop Work Hour](./shop-work-hour)
+- [Store Work Hour](./store-work-hour)
 
 ### Strings
 
