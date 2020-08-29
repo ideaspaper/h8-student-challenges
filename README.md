@@ -24,6 +24,7 @@ This repo contains additional challenges for Hacktiv8's students. Students can c
 - [Pattern 2](./pattern-2)
 - [Pattern 3](./pattern-3)
 - [Pattern 4](./pattern-4)
+- [Pattern 5](./pattern-5)
 
 ### Functions
 
