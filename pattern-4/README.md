@@ -1,6 +1,6 @@
 [**Back to Home**](./../README.md)
 
-# Pattern 3
+# Pattern 4
 
 ## Directions
 
