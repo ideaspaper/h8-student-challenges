@@ -1,6 +1,6 @@
 [**Back to Home**](./../README.md)
 
-# Shop Work Hour
+# Store Work Hour
 
 ## Directions
 
