@@ -1,0 +1,16 @@
+{
+  "name": "pattern-1",
+  "version": "1.0.0",
+  "description": "[**Back to Home**](./../README.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fnless": "0.1.10",
+    "jest": "26.4.2"
+  }
+}
