@@ -18,8 +18,6 @@ Input: '`Yokult`'
 
 Output: `'First character is Y, no middle character, last character is t'`
 
-Seorang user akan melakukan instalasi sebuah program pada komputernya. Namun sebelum program tersebut dapat di-install, user harus melakukan menyetujui EULA terlebih dahulu dengan cara melakukan klik tombol agree (`agree`). Tombol tersebut hanya dapat diklik apabila posisi scroll (`scrollPos`) sudah di `'bottom'`. User juga akan diberi opsi apakah hendak melakukan instalasi spyware remover (`spywareRemover`) atau tidak.
-
 ## Notes
 
 - Apabila tipe data dari `input` bukan merupakan `string`, tampilkan `'type error'`.
