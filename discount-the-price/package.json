@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fnless": "0.1.10",
+    "fnless": "0.1.11",
     "jest": "26.4.1"
   }
 }
