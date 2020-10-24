@@ -18,6 +18,8 @@ This repo contains additional challenges for Hacktiv8's students. Students can c
 
 ### Loopings
 
+- [Decimals Hexadecimals](./decimals-hexadecimals)
+
 ### Nested Loopings
 
 - [Pattern 1](./pattern-1)
